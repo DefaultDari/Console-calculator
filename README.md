@@ -1,4 +1,4 @@
-
+Я купил права на этот проект
 # Calculator Application
 
 This is a simple calculator application built using Python and tkinter.
